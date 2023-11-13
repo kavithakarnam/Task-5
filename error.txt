@@ -1,0 +1,6 @@
+syntax error:  thrown When the write the code does not flow the proper syntax rules .
+Reference error :Thrown when an attempt is made to access a variable that does not exit.
+Type error:Thrown when an operation is performed on a value of a variable that does not exit.
+Range error:Thrown when a number is outside the  valid range.
+Eval error error:Thrown when an occurs in the eval() function.
+Internal error : Thrown when an internal error is  occurs in the java script.
